@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "node-restful": "latest",
+    "body-parser": "latest",
+    "method-override": "latest",
+    "morgan": "latest",
+    "cors": "latest"
+  }
+}
